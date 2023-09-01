@@ -2,7 +2,7 @@
 # See project.yml for variables.
 ---
 # About
-_{Building community around and gathering knowledge about the world’s ice crawlers"}_
+_Building community around and gathering knowledge about the world’s ice crawlers_
 
 ## Overview
 The _{{ app:project_name }}_ file offers a community-curated collection of richly-cited and annotated information on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages). For more on how this site is built please see the [Software](#software) section.
@@ -15,7 +15,7 @@ The _{{ app:project_name }}_ file offers a community-curated collection of richl
 | Michael D. Maehr\* | Author |
 | David C. Eades\* | Developer |
 
-_A \* denotes a past contributor, now inactive._
+_\* Past contributor, now inactive._
 
 ### How you can contribute or get help
 The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project may include {an incomplete catalog of type-material}, {incomplete photographic depictions}, {biological associations}, {incomplete distribution records} and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, or other gaps in the data.
