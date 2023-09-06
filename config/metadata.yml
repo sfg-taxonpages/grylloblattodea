@@ -1,8 +1,8 @@
 ---
 metadata:
   - name: description
-    content: TaxonPages is a tool to serve taxon pages.
+    content: The Grylloblattodea Species File is a taxonomic, nomenclatural, and bibliographic database of the ice crawlers of the world, including all extant and fossil taxa.
   - name: keywords
-    content: taxonomy, species, Species File Group
+    content: taxonomy, species, Species File Group, SFG, Grylloblattodea, ice crawlers, taxonpages, Grylloblattodea Species File.
   - name: robots
     content: follow
