@@ -11,7 +11,7 @@ The Grylloblattodea Species File works to build a comprehensive source for knowl
 
 Explore!
 
-Try searching for species _[Grylloblatta berberi]_, or start your exploration at Genus _[Grylloblatta]({{app:project_url}}/otu/925108/overview),_  or Family _[Grylloblattidae]({{app:project_url}}/otu/925080/overview)._
+Try searching for species _Grylloblatta berberi_, or start your exploration at Genus [Grylloblatta]({{app:project_url}}/otu/925108/overview),  or Family [Grylloblattidae]({{app:project_url}}/otu/925080/overview).
 
 ## Discover more
 See our [About](about) page for an [overview](about#overview) of the project, its data, and the development [team](about#team), and details about how you can access the data or [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
