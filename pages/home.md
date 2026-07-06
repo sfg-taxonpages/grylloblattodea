@@ -23,4 +23,4 @@ See our [About](about) page for an [overview](about#overview) of the project, it
 
 ## Announcements
 
-July 2026: Launch of Small Polyneopteran Orders database where several small former species files and several small newly established ones are united for greater ease of use.
+July 2026: Launch of Small Insecta Orders database where several small former species files and several small newly established ones are united for greater ease of use.
