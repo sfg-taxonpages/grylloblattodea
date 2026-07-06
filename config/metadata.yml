@@ -1,8 +1,8 @@
 ---
 metadata:
   - name: description
-    content: The Grylloblattodea Species File is a taxonomic, nomenclatural, and bibliographic database of the ice crawlers of the world, including all extant and fossil taxa.
+    content: Small Polyneopteran Orders is a comprehensive source of knowledge for the following extant insect groups: Archaeognatha (Microcoryphia), Coleorrhyncha, Embioptera, Notoptera (Grylloblattodea and Mantophasmatodea), Zoraptera and Zypentoma (Thysanura); and the following extinct groups: Archaeorthoptera, Cnemidolestida, Eoblattida and Reculida
   - name: keywords
-    content: taxonomy, species, Species File Group, Grylloblattodea, ice crawlers, taxonpages, Grylloblattodea Species File
+    content: taxonomy, species, Species File Group, Archaeognatha, bristletails, Microcoryphia, Coleorrhyncha, moss bugs, Coleorrhyncha Species File, Embioptera, webspinners, Embioptera Species File, Grylloblattodea, ice crawlers, Grylloblattodea Species File, Mantophasmatodea, heelwalkers, gladiators, Mantophasmatodea Species File, Zoraptera, angel insects, Zoraptera Species File, Zygentoma, silverfish, firebrats, Thysanura, ectognaths Archaeorthoptera, Cnemidolestida, Eoblattida, Reculida, fossil insects
   - name: robots
     content: follow
