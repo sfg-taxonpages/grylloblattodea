@@ -14,6 +14,7 @@ The _{{ app:project_name }}_ file offers a collection of richly-cited and annota
 | Heidi Hopkins | Author |
 | Michael D. Maehr\* | Author |
 | David C. Eades\* | Developer |
+
 _\* Past contributor, now inactive._
 
 ### Contribute or get help
