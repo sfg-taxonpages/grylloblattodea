@@ -14,7 +14,6 @@ layout: blank
         
 <div class="container mx-auto my-8 px-4 md:px-0 box-border">
 
-
 # {{ app:project_name }}
 The Small Insecta Orders database is a comprehensive source for knowledge about the world’s Archaeognatha (Microcoryphia), Coleorrhyncha, Embioptera, Notoptera (Grylloblattodea and Mantophasmatodea), Zoraptera and Zypentoma (Thysanura), as well as several fossil groups of insects. Information found here includes nomenclature, classification, taxonomic histories, research, scientific sources, specimen data, images, keys, and distributions for the covered orders of insects. This site seeks to include and serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists.
 
@@ -24,3 +23,5 @@ See our [About](about) page for an [overview](about#overview) of the project, it
 ## Announcements
 
 July 2026: Launch of Small Insecta Orders database where several small former species files and several small newly established ones are united for greater ease of use.
+
+</div>
