@@ -1,7 +1,7 @@
 ---
 layout: blank
 ---
-<GalleryCarousel :depiction-id="[1279274,1279258,1279265,1279272,1279243,1279273,1279267,1279271,1279261,1279262,1279415,1279266,1279279,1279282]" citations height="470px">
+<GalleryCarousel :depiction-id="[1279274,1279258,1279265,1279272,1279243,1279273,1279267,1279271,1279261,1279262,1279468,1279415,1279266,1279279,1279282]" citations height="470px">
   <div class="flex flex-col justify-center items-center w-full h-full bg-black/25 text-white gap-4 px-4 box-border">
     <span class="text-4xl font-medium">{{ app:project_name }}</span>
     <p class="text-lg sm:text-xl text-center container">A comprehensive source of knowledge on the extant insect groups Archaeognatha (Microcoryphia), Coleorrhyncha, Embioptera, Notoptera (Grylloblattodea and Mantophasmatodea), Zoraptera and Zygentoma (Thysanura) and the extinct groups Archaeorthoptera, Cnemidolestida, Eoblattida, Permopsocida and Reculida</p>
