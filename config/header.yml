@@ -1,12 +1,11 @@
----
-header_logo_url: /Images/sitelogo.jpg
-  header_logo_text: Selected Insecta Species File
-  header_links:
-    - label: Home
-      link: /
+header_logo_url: /images/SiteLogo.jpg
+header_logo_text: Selected Insecta Species File
+header_links:
+  - label: Home
+    link: /
 
-    - label: Search DwC
-      link: /resources/tw/filter/dwc_otus
+  - label: Search DwC
+    link: /resources/tw/filter/dwc_otus
 
-    - label: About
-      link: /about
+  - label: About
+    link: /about
